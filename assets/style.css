@@ -1,0 +1,264 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+    background-color: #333;
+
+}
+header{
+    background-color: darkslategrey;
+    margin-top: -60px;
+    height: 150px;
+    width: 100%;
+}
+#header-content{
+    color: white;
+    font-family: monospace;
+    font-size: 35px;
+    opacity: .9;
+
+}
+h1{
+    margin-left: 30px;
+    padding-top: 42px;
+
+}
+
+
+ul {
+    list-style-type: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    overflow: hidden;
+    width: 100%;
+
+
+}
+
+li {
+    float: left;
+
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 14px;
+    text-decoration: none;
+    opacity: .9;
+
+}
+
+li a:hover {
+    background-color: black;
+
+}
+
+article p {
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left:150px;
+    margin-right: 150px;
+    text-align: justify;
+    font-size: 20px;
+
+}
+article h1{
+    margin-top: 0;
+    color: white;
+    font-size: 45px;
+}
+article h2{
+    margin-top: 0;
+    color: white;
+    margin-left: 30px;
+    padding-top: 42px;
+    font-size: 34px;
+}
+article h3{
+    margin-top: 0;
+    color: white;
+    margin-left: 175px;
+    padding-top: 10px;
+    font-size: 24px;
+}
+
+article div#small-line{
+    background-color: white;
+    width: 100%;
+    height: 2px;
+}
+article div#small-line2{
+    background-color: white;
+    width: 100%;
+    height: 2px;
+}
+
+div#image1{
+
+    margin-left: 525px;
+    margin-top: 70px;
+    margin-bottom: 110px;
+    max-width: 100%;
+    height: auto;
+
+}
+div#image2{
+
+    margin-left: 320px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+
+}
+
+div#image3{
+
+    margin-left: 320px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+div#image4{
+
+    margin-left: 17px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: inline-block;
+
+}div#design_bar{
+    background-color: darkslategray;
+    height: 640px;
+    width: 300px;
+    display: inline-block;
+    margin-left: 17px;
+ }
+
+div#design_bar2{
+    background-color: darkslategray;
+    height: 462px;
+    width: 560px;
+    display: inline-block;
+    margin-left: 320px;
+}
+
+
+div#image5{
+    display: inline-block;
+    margin-left: 320px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+div#generic{
+    margin-left: 32px;
+}
+
+div#aio{
+    margin-left: 32px;
+}
+
+#waterblock{
+    display: inline;
+    margin-left: 175px;
+}
+#waterpump{
+    display: inline;
+    margin-left: 175px;
+}
+#radiator{
+    display: inline;
+    margin-left: 175px;
+}
+#tubes{
+    display: inline;
+    margin-left: 175px;
+}
+#reservoir{
+     display: inline;
+     margin-left: 175px;
+ }
+#fittings{
+    display: inline;
+    margin-left: 175px;
+}
+
+#installation_waterblock{
+    margin-left: 640px;
+}
+#inst_rad{
+    margin-left: 600px;
+}
+#reservoir_ins{
+    margin-left: 500px;
+}
+#ins_final{
+    margin-left: 500px;
+}
+footer{
+    background-color: darkslategrey;
+    margin-bottom:0;
+    padding: 0;
+
+    height: 150px;
+    width: 100%;
+}
+#footer-content h1{
+    color: white;
+    font-family: monospace;
+    padding-top: 30px;
+    padding-left: 12px;
+}
+
+#footer-content a{
+    color: white;
+    font-family: monospace;
+    padding-top: 20px;
+    margin-left: 43px;
+
+}
+#footer-content p{
+    color: white;
+    margin-left: 42px;
+}
+#author{
+    margin-left: 35px;
+    display: inline-block;
+}
+div#info{
+    display: inline-block;
+    margin-bottom: 50px;
+}
+
+div#info a{
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left:150px;
+    margin-right: 150px;
+    text-align: justify;
+    font-size: 20px;
+    display: inline-block;
+    text-decoration: none;
+
+}
+
+div#info a:hover{
+    color: darkslategray;
+    text-shadow: 2px 2px 6px black , 1px 1px 4px  ;
+}
+a#arr{
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.fluid{
+    max-width: 100%;
+    height: auto ;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
