@@ -8,6 +8,6 @@ A static website about PC water cooling. Everything was coded by me from scratch
 
 It was designed for a wide screen/monitor. Images are are bit in a disarray if the page is minimize or viewed on a small screen. 
 
-//it is not very responsive 
+//it is not responsive 
 
 
