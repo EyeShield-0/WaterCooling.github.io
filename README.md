@@ -3,11 +3,9 @@ A static website about PC water cooling. Everything was coded from scratch even 
 
 Link: https://naguitsirangel.github.io/WaterCooling.github.io/
 
-A static website about PC water cooling. Everything was coded by me from scratch. This my first website. 
+A static website about PC water cooling. Everything was coded by me from scratch. It is my first website. 
 
 
-It was designed for a wide screen/monitor. Images are are bit in a disarray if the page is minimize or viewed on a small screen. 
-
-**it is not responsive** 
+**none res** 
 
 
