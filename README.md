@@ -1,5 +1,4 @@
 # WaterCooling.github.io
-A static website about PC water cooling. Everything was coded from scratch even the css. 
 
 Link: https://naguitsirangel.github.io/WaterCooling.github.io/
 
