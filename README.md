@@ -1,5 +1,5 @@
 # WaterCooling.github.io
-A static website about PC water cooling. Everything was coded by me from scratch. My first website.
+A static web page about PC water cooling. Everything was coded by me from scratch. My first website.
 
 # View
 ![Alt text](/assets/Capture1.PNG?raw=true)
